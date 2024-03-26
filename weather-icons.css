@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Weather Icons';
+    src: url('https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.9/fonts/weathericons-regular-webfont.woff2') format('woff2'),
+         url('https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.9/fonts/weathericons-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  .wi {
+    font-family: 'Weather Icons';
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+  
+    display: inline-block;
+    white-space: nowrap;
+    word-wrap: normal;
+    direction: ltr;
+  
+    /* Support for IE9+, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
